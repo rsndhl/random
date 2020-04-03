@@ -1,15 +1,14 @@
 Let's make a game!
-	name:Bunny Clicker
-	by:Orteil
-	desc:This is a simple idle game to showcase some of the basic functionalities of Idle Game Maker.<//>Make bunnies and shoot for the stars!
-	created:25/7/2017
-	updated:24/10/2017
-	version:1
+	name:Alitzens Hasenspiel
+	by:markus_offischl
+	desc:Das ist ein Test.
+	created:3/4/2020
+	version:0.1
 
 Settings
 	background:stuff/meadow.jpg
-	building cost increase:115%
-	building cost refund:50%
+	building cost increase:105%
+	building cost refund:80%
 	spritesheet:icons, 48 by 48, stuff/bunnyIcons.png
 	stylesheet:stuff/bigBlue.css
 
